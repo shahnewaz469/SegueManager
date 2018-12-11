@@ -12,7 +12,7 @@ DEPENDENCIES:
   - SegueManager/R.swift (from `../../`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - R.swift
     - R.swift.Library
 
@@ -27,4 +27,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 1dbf929836c9c04d50a1aec3e0c6b654b13b04bb
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3

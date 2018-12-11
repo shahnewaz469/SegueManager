@@ -1,5 +1,5 @@
 PODS:
-  - R.swift.Library (4.0.0)
+  - R.swift.Library (5.0.0)
   - SegueManager (4.0.0):
     - SegueManager/iOS (= 4.0.0)
     - SegueManager/OSX (= 4.0.0)
@@ -13,7 +13,7 @@ DEPENDENCIES:
   - SegueManager (from `../../`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - R.swift.Library
 
 EXTERNAL SOURCES:
@@ -21,9 +21,9 @@ EXTERNAL SOURCES:
     :path: "../../"
 
 SPEC CHECKSUMS:
-  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  R.swift.Library: 0bf390e729bc10bb2c9e4fb78bd043164a7be4ff
   SegueManager: 8fb08da7e17135c1dbb8687e574be00f8019b164
 
 PODFILE CHECKSUM: d80574cff92b86feb5f21b2f7b4625598df3131b
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3
